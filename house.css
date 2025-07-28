@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+#text{
+    font-size: 30px;
+    color: black;
+    padding-bottom: 20px;font-weight: 700;
+}
